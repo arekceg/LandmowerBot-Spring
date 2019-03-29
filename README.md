@@ -1,4 +1,5 @@
-## LawnmowerBot
+## LawnmowerBot-Spring
+#***updated with spring-boot**
 https://www.facebook.com/lawnmowerbot1
 
 Simple facebook bot build with RestFB. 
@@ -10,3 +11,4 @@ The idea came to me when, by some weird ad-targeting mischief, I was bombarded w
 Images downloaded using: https://github.com/hardikvasa/google-images-download
 
 RestFB: https://restfb.com/
+
