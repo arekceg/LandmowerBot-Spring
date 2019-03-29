@@ -1,5 +1,6 @@
 ## LawnmowerBot-Spring
-#***updated with spring-boot**
+**updated with spring-boot**
+
 https://www.facebook.com/lawnmowerbot1
 
 Simple facebook bot build with RestFB. 
